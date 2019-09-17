@@ -41,7 +41,7 @@
 					<li>Preço: 60 reais</li>
 					<li>Cor: Branca</li>
 					<li>Tamanhos Disponíveis: P, M, G</li>
-					<li>Estoque: Disponível</li>
+					<li>Estoque: Disponível </li>
 				</ul>
 			</div>
 		</div>
